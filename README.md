@@ -1,0 +1,2 @@
+# Planetside2 Outfit Query Discord Bot
+A simple Discord bot that welcomes new members, checks their Planetside 2 character with the Daybreak/Census API, and auto-assigns roles based on outfit membership. It dynamically loads slash commands, handles interactions and errors, and posts configurable welcome messages to a specified channel. Configure it with env vars (bot token, Census token, outfit alias, welcome channel/role IDs) to enable automatic verification and role assignment.
